@@ -61,6 +61,13 @@
 	border-top: 2px #6f6f6f solid;	
 }
 
+.button.number {
+	color: white;
+	background-color: #7091ab;
+	border-bottom: black 2px solid;
+	border-top: 2px #6f6f6f solid;	
+}
+
 .function:active {
 	border-top: black 2px solid;
 	border-bottom: #6f6f6f 2px solid;	
